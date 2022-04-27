@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://iavianm.github.io/cv/" target="_blank"> Mikhail</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
 **iavianm/iavianm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iavianm&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iavianm&theme=solarized_dark)
+
+[![codewars](https://www.codewars.com/users/iavianm/badges/small)](https://www.codewars.com/users/iavianm)
+
+![](https://komarev.com/ghpvc/?username=iavianm)
