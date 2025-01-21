@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iavianm&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=iavianm&show_icons=true&theme=radical&card_width=450" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iavianm&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iavianm&layout=compact&theme=radical&card_width=450" alt="Top Languages" />
     </td>
   </tr>
 </table>
