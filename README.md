@@ -15,14 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iavianm&theme=solarized_dark) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iavianm&theme=solarized_dark)
 
 [![codewars](https://www.codewars.com/users/iavianm/badges/small)](https://www.codewars.com/users/iavianm)
 
 ![](https://komarev.com/ghpvc/?username=iavianm)
-
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=iavianm&show_icons=true&theme=radical)
-
-## Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iavianm&layout=compact&theme=radical)
