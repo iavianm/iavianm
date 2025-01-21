@@ -22,14 +22,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=iavianm)
 
 ## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=iavianm&show_icons=true&theme=radical)
 
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <td style="border: none; padding-right: 10px; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=iavianm&show_icons=true&theme=radical&card_width=400" alt="GitHub Stats" />
-    </td>
-    <td style="border: none; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iavianm&layout=compact&theme=radical&card_width=400" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+## Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iavianm&layout=compact&theme=radical)
